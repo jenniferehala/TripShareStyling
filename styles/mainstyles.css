@@ -169,3 +169,17 @@ h3 {
 .foot-right:hover {
   cursor: pointer;
 }
+
+
+
+#GFG:hover {
+    /* background-color: gray; */
+    color: gray;
+}
+
+#GFG {
+  color:black;
+  text-decoration: none;
+  
+  
+}
