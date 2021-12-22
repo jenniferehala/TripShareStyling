@@ -169,3 +169,33 @@ h3 {
 .foot-right:hover {
   cursor: pointer;
 }
+
+
+
+/* Show Page */
+
+
+.thumbnail {
+  position: relative;
+}
+
+.caption {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  width: 50%;
+}
+
+
+
+#GFG:hover {
+    /* background-color: gray; */
+    color: gray;
+}
+
+#GFG {
+  color:black;
+  text-decoration: none;
+  
+  
+}
