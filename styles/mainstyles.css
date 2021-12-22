@@ -169,3 +169,15 @@ h3 {
 .foot-right:hover {
   cursor: pointer;
 }
+
+/* show page */
+.thumbnail {
+  position: relative;
+}
+
+.caption {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  width: 50%;
+}
